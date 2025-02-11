@@ -1,5 +1,5 @@
 # Website Test
- funny little site
+ funny little site made in a meeting at the CS club
 
  A little bit of cringe.
  I suggest you don't look at or copy this...
